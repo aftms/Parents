@@ -1,0 +1,9 @@
+{
+  "name": "parents",
+  "version": "0.0.0",
+  "description": "Parents",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
